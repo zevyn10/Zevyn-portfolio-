@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="accessibility_service_description">Allows hands-free scrolling using head movements detected via the front camera.</string>
+</resources>
